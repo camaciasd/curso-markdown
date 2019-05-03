@@ -2,9 +2,9 @@
 
 La creación de citas en *Markdown* es muy sencillo, simplemente se debe poner el carácter de mayor que \(**>**\) antes del texto de la cita, por ejemplo la siguiente cita:
 
-En código seria así:
-
 > Y yo, soy Ironman – Tony Stark
+
+En código seria así:
 
 ```
 > Y yo, soy Ironman – Tony Stark
